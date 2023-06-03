@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\GitHub\Access-Token-Manipulation-Test\Access_Token_Manipulation\main.cpp(124,3): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 3 est de type 'HANDLE'
+D:\GitHub\Access-Token-Manipulation-Test\Access_Token_Manipulation\main.cpp(124,3): warning C4313: 'printf' : '%d' dans la chaîne de format est en conflit avec l'argument 3 de type 'HANDLE'.
+D:\GitHub\Access-Token-Manipulation-Test\Access_Token_Manipulation\main.cpp(124,3): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 4 est de type 'HANDLE'
+D:\GitHub\Access-Token-Manipulation-Test\Access_Token_Manipulation\main.cpp(124,3): warning C4313: 'printf' : '%d' dans la chaîne de format est en conflit avec l'argument 4 de type 'HANDLE'.
+  Access_Token_Manipulation.vcxproj -> D:\GitHub\Access-Token-Manipulation-Test\Access_Token_Manipulation\x64\Debug\Access_Token_Manipulation.exe
